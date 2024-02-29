@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hotel App</string>
+    <string name="welcome_message" translatable="false">Bienvenido al Hotel App</string>
+    <string name="login_label" translatable="false">Ingresar</string>
+    <string name="signup_label" translatable="false">Registrarse</string>
+    <string name="username_label" translatable="false">Nombre de usuario</string>
+    <string name="password_label" translatable="false">Contraseña</string>
+    <string name="book_humidity_zone" translatable="false">Reservar zona humeda</string>
+    <string name="bill_food_products" translatable="false">Facturar productos alimentarios</string>
+</resources>
